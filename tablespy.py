@@ -6,3 +6,4 @@ from prettytable import PrettyTable as МилаяТаблица
 
 печатать(чек)
 
+
